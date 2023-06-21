@@ -35,6 +35,9 @@ class Enemy extends Character {
 
   takeSandwich() {
     // Fill this in
+    // let item = this.currentRoom.getItemByName('sandwich');
+    // if(item){
+    // }
   }
 
   // Print the alert only if player is standing in the same room
